@@ -6,3 +6,4 @@ Although paintings are static, your app will be interactive! The app consists of
 
 ## Screenshots
 
+<img src="screenshot/ss.png" width=350 alt="Screenshot of the app.">
